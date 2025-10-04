@@ -171,7 +171,7 @@ const Auth = () => {
                       id="full-name"
                       name="full-name"
                       type="text"
-                      placeholder="John Doe"
+                      placeholder="Name"
                       required
                     />
                   </div>
